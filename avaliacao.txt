@@ -1,0 +1,1 @@
+Estou desenvolvendo a avaliação de tecnologias utilizando a ferramenta git.
